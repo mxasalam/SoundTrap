@@ -1,0 +1,6 @@
+,,,Limits in dB(A) Leq*
+Area code,Category of zone,Day-time,Night-time
+A,Industrial,75,70
+B,Commercial,65,55
+C,Residential,55,45
+D,Silence,50,40
